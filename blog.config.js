@@ -3,8 +3,8 @@ const BLOG = {
   author: 'Devpan',
   email: 'admin@avj.asia',
   link: 'https://avj.asia',
-  description: '一个锻炼写作的地方，就当朋友圈用吧.',
-  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  description: '最高效率的学习就是输出，一直也缺少一个自言自语的地方，就当朋友圈用吧.',
+  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
