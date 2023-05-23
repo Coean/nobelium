@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Ocean日记',
+  title: 'Ocean\'s Note',
   author: 'Devpan',
   email: 'admin@avj.asia',
   link: 'https://avj.asia',
@@ -16,7 +16,7 @@ const BLOG = {
   sortByDate: false,
   showAbout: true,
   showArchive: true,
-  autoCollapsedNavBar: false, // The automatically collapsed navigation bar
+  autoCollapsedNavBar: false, //f
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: '',
   seo: {
@@ -38,7 +38,7 @@ const BLOG = {
   },
   comment: {
     // support provider: gitalk, utterances, cusdis
-    provider: '', // leave it empty if you don't need any comment plugin
+    provider: 'cusdis', // leave it empty if you don't need any comment plugin
     gitalkConfig: {
       repo: '', // The repository of store comments
       owner: '',
@@ -51,7 +51,7 @@ const BLOG = {
       repo: ''
     },
     cusdisConfig: {
-      appId: '', // data-app-id
+      appId: 'ff50e305-bc38-481c-9fe6-798d11d38e70', // data-app-id
       host: 'https://cusdis.com', // data-host, change this if you're using self-hosted version
       scriptSrc: 'https://cusdis.com/js/cusdis.es.js' // change this if you're using self-hosted version
     }
