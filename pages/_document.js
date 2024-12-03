@@ -115,6 +115,8 @@ class MyDocument extends Document {
             }
           `}
           </style>
+          <script defer src="https://cloud.umami.is/script.js"
+                  data-website-id="c6061ec0-b052-4f53-9642-55bbfb8df03f"></script>
         </Head>
         <body className="bg-day dark:bg-night">
           <Main />
