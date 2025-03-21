@@ -1,8 +1,8 @@
 const BLOG = {
   title: 'Devpan\'s Note',
   author: 'Devpan',
-  email: 'admin@avj.asia',
-  link: 'https://avj.asia',
+  email: 'admin@002225.xyz',
+  link: 'https://002225.xyz',
   description: 'Inspiration is Perishable, Now or Never.', // 效率最高的学习就是输出
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
